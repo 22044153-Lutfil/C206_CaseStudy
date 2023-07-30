@@ -11,4 +11,6 @@ public class Laptop {
         this.model = model;
         this.available = true; // New laptops are assumed to be available by default
     }
+    
+    
 }

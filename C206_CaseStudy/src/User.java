@@ -16,4 +16,5 @@ public class User {
 
     // Getters and setters 
     
+    
 }

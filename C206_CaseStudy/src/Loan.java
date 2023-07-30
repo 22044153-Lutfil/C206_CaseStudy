@@ -14,5 +14,6 @@ public class Loan {
         this.expectedReturnDate = expectedReturnDate;
     }
 
+    
     // Getters and setters 
 }

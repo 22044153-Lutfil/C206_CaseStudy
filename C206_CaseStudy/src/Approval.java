@@ -9,6 +9,7 @@ public class Approval {
         this.loan = loan;
         this.approvalDate = approvalDate;
     }
+    
 
     // Getters and setters 
     
