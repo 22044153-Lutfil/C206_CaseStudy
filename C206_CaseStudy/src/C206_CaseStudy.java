@@ -456,7 +456,7 @@ public class C206_CaseStudy {
 	}
 
 	public static Vendor inputVendor() {	
-		int vendorID = Helper.readInt("Enter vendor id > ");
+		int vendorID = Helper.readInt("Enter vendor ID > ");
 		String vendorName = Helper.readString("Enter vendor name > ");
 		int vendorContact = Helper.readInt("Enter vendor contact > ");
 		String vendoMenu = Helper.readString("Enter vendor menu > ");
